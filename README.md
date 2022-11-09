@@ -26,4 +26,8 @@ Contoh ini menggunakan Siamese Network dengan tiga subnetwork yang identik. Kami
 - kaggle
 https://www.kaggle.com/datasets/robinreni/signature-verification-dataset
 
-
+## Output
+<br>
+<p align="center">
+    <img align="center" width=800 height=500 src ="asset/result.PNG"  > 
+</p>
